@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>Nico's Pizza Co.</h1>
       <MyComponent/>
       <BackButton/>
     </div>
